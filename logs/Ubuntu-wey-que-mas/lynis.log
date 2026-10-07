@@ -1,0 +1,34 @@
+2026-10-07 16:07:19 Starting Lynis 3.1.6 with PID 3013, build date 2025-10-22
+2026-10-07 16:07:19 ====
+2026-10-07 16:07:19 ### 2007-2025, CISOfy - https://cisofy.com/lynis/ ###
+2026-10-07 16:07:20 Checking permissions of /usr/share/lynis/include/profiles
+2026-10-07 16:07:21 File permissions are OK
+2026-10-07 16:07:21 Reading profile/configuration /etc/lynis/default.prf
+2026-10-07 16:07:22 Action: created temporary file /tmp/lynis.eKqMfyrGip
+2026-10-07 16:07:24 Language set via profile to ''
+2026-10-07 16:07:33 Plugin 'authentication' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:34 Plugin 'compliance' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:34 Plugin 'configuration' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:35 Plugin 'control-panels' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:36 Plugin 'crypto' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:37 Plugin 'dns' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:37 Plugin 'docker' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:38 Plugin 'file-integrity' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:39 Plugin 'file-systems' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:39 Plugin 'firewalls' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:40 Plugin 'forensics' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:40 Plugin 'hardware' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:41 Plugin 'intrusion-detection' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:42 Plugin 'intrusion-prevention' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:42 Plugin 'kernel' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:43 Plugin 'malware' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:43 Plugin 'memory' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:44 Plugin 'nginx' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:44 Plugin 'pam' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:44 Plugin 'processes' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:45 Plugin 'security-modules' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:45 Plugin 'software' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:45 Plugin 'system-integrity' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:46 Plugin 'systemd' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:46 Plugin 'users' enabled according profile (/etc/lynis/default.prf)
+2026-10-07 16:07:47 Plugin 'krb5' enabled according profile (/etc/lynis/default.prf)

@@ -1,0 +1,35 @@
+timestamp,message,time_diff,message_length,word_count,anomaly_score,is_anomaly,anomaly_label
+2026-10-07 16:07:19,"Starting Lynis 3.1.6 with PID 3013, build date 2025-10-22",0.0,57,9,0.021893696592374612,1,Normal
+2026-10-07 16:07:19,====,0.0,4,1,-0.07320489784341855,-1,Anomalía
+2026-10-07 16:07:19,"### 2007-2025, CISOfy - https://cisofy.com/lynis/ ###",0.0,53,6,0.2246522425759987,1,Normal
+2026-10-07 16:07:20,Checking permissions of /usr/share/lynis/include/profiles,1.0,57,4,0.14323246005802415,1,Normal
+2026-10-07 16:07:21,File permissions are OK,1.0,23,4,0.044568974890660584,1,Normal
+2026-10-07 16:07:21,Reading profile/configuration /etc/lynis/default.prf,0.0,52,3,0.0764174557760604,1,Normal
+2026-10-07 16:07:22,Action: created temporary file /tmp/lynis.eKqMfyrGip,1.0,52,5,0.16258659552073057,1,Normal
+2026-10-07 16:07:24,Language set via profile to '',2.0,30,6,0.041862221850303305,1,Normal
+2026-10-07 16:07:33,Plugin 'authentication' enabled according profile (/etc/lynis/default.prf),9.0,74,6,-0.04065972224298153,-1,Anomalía
+2026-10-07 16:07:34,Plugin 'compliance' enabled according profile (/etc/lynis/default.prf),1.0,70,6,0.31262056240614333,1,Normal
+2026-10-07 16:07:34,Plugin 'configuration' enabled according profile (/etc/lynis/default.prf),0.0,73,6,0.26159073461745497,1,Normal
+2026-10-07 16:07:35,Plugin 'control-panels' enabled according profile (/etc/lynis/default.prf),1.0,74,6,0.29909375773259034,1,Normal
+2026-10-07 16:07:36,Plugin 'crypto' enabled according profile (/etc/lynis/default.prf),1.0,66,6,0.3184494859901485,1,Normal
+2026-10-07 16:07:37,Plugin 'dns' enabled according profile (/etc/lynis/default.prf),1.0,63,6,0.2917680518597318,1,Normal
+2026-10-07 16:07:37,Plugin 'docker' enabled according profile (/etc/lynis/default.prf),0.0,66,6,0.3150429443701864,1,Normal
+2026-10-07 16:07:38,Plugin 'file-integrity' enabled according profile (/etc/lynis/default.prf),1.0,74,6,0.29909375773259034,1,Normal
+2026-10-07 16:07:39,Plugin 'file-systems' enabled according profile (/etc/lynis/default.prf),1.0,72,6,0.2977107217320919,1,Normal
+2026-10-07 16:07:39,Plugin 'firewalls' enabled according profile (/etc/lynis/default.prf),0.0,69,6,0.30676399993997133,1,Normal
+2026-10-07 16:07:40,Plugin 'forensics' enabled according profile (/etc/lynis/default.prf),1.0,69,6,0.3151136572123506,1,Normal
+2026-10-07 16:07:40,Plugin 'hardware' enabled according profile (/etc/lynis/default.prf),0.0,68,6,0.3124874721282003,1,Normal
+2026-10-07 16:07:41,Plugin 'intrusion-detection' enabled according profile (/etc/lynis/default.prf),1.0,79,6,0.23384920212619237,1,Normal
+2026-10-07 16:07:42,Plugin 'intrusion-prevention' enabled according profile (/etc/lynis/default.prf),1.0,80,6,0.21665537978629773,1,Normal
+2026-10-07 16:07:42,Plugin 'kernel' enabled according profile (/etc/lynis/default.prf),0.0,66,6,0.3150429443701864,1,Normal
+2026-10-07 16:07:43,Plugin 'malware' enabled according profile (/etc/lynis/default.prf),1.0,67,6,0.3195062644077013,1,Normal
+2026-10-07 16:07:43,Plugin 'memory' enabled according profile (/etc/lynis/default.prf),0.0,66,6,0.3150429443701864,1,Normal
+2026-10-07 16:07:44,Plugin 'nginx' enabled according profile (/etc/lynis/default.prf),1.0,65,6,0.31217668776045854,1,Normal
+2026-10-07 16:07:44,Plugin 'pam' enabled according profile (/etc/lynis/default.prf),0.0,63,6,0.2845329829411061,1,Normal
+2026-10-07 16:07:44,Plugin 'processes' enabled according profile (/etc/lynis/default.prf),0.0,69,6,0.30676399993997133,1,Normal
+2026-10-07 16:07:45,Plugin 'security-modules' enabled according profile (/etc/lynis/default.prf),1.0,76,6,0.27056529428853077,1,Normal
+2026-10-07 16:07:45,Plugin 'software' enabled according profile (/etc/lynis/default.prf),0.0,68,6,0.3124874721282003,1,Normal
+2026-10-07 16:07:45,Plugin 'system-integrity' enabled according profile (/etc/lynis/default.prf),0.0,76,6,0.22843436219529029,1,Normal
+2026-10-07 16:07:46,Plugin 'systemd' enabled according profile (/etc/lynis/default.prf),1.0,67,6,0.3195062644077013,1,Normal
+2026-10-07 16:07:46,Plugin 'users' enabled according profile (/etc/lynis/default.prf),0.0,65,6,0.3077032624371802,1,Normal
+2026-10-07 16:07:47,Plugin 'krb5' enabled according profile (/etc/lynis/default.prf),1.0,64,6,0.30168539225689084,1,Normal
